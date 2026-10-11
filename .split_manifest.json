@@ -1,0 +1,43 @@
+{
+  "magalib/onnxruntime/capi/libonnxruntime_providers_cuda.so": {
+    "chunk_mb": 50,
+    "parts": [
+      "magalib/onnxruntime/capi/libonnxruntime_providers_cuda.so.part_000",
+      "magalib/onnxruntime/capi/libonnxruntime_providers_cuda.so.part_001",
+      "magalib/onnxruntime/capi/libonnxruntime_providers_cuda.so.part_002",
+      "magalib/onnxruntime/capi/libonnxruntime_providers_cuda.so.part_003",
+      "magalib/onnxruntime/capi/libonnxruntime_providers_cuda.so.part_004",
+      "magalib/onnxruntime/capi/libonnxruntime_providers_cuda.so.part_005",
+      "magalib/onnxruntime/capi/libonnxruntime_providers_cuda.so.part_006",
+      "magalib/onnxruntime/capi/libonnxruntime_providers_cuda.so.part_007"
+    ],
+    "sha256": "c1ea7b552057b2ad58f4d278807ba99eabf565a9bd93d0da2c3162299f59e99e",
+    "size": 407530104
+  },
+  "magalib/roboflow/football-field-detection-f07vi/14/weights.onnx": {
+    "chunk_mb": 50,
+    "parts": [
+      "magalib/roboflow/football-field-detection-f07vi/14/weights.onnx.part_000",
+      "magalib/roboflow/football-field-detection-f07vi/14/weights.onnx.part_001",
+      "magalib/roboflow/football-field-detection-f07vi/14/weights.onnx.part_002",
+      "magalib/roboflow/football-field-detection-f07vi/14/weights.onnx.part_003",
+      "magalib/roboflow/football-field-detection-f07vi/14/weights.onnx.part_004",
+      "magalib/roboflow/football-field-detection-f07vi/14/weights.onnx.part_005"
+    ],
+    "sha256": "b53abaad40c23c51ec8deac2189637f9ef96c101f3ed42d0d6f596d3d0354c7b",
+    "size": 279487712
+  },
+  "magalib/roboflow/football-players-detection-3zvbc/11/weights.onnx": {
+    "chunk_mb": 50,
+    "parts": [
+      "magalib/roboflow/football-players-detection-3zvbc/11/weights.onnx.part_000",
+      "magalib/roboflow/football-players-detection-3zvbc/11/weights.onnx.part_001",
+      "magalib/roboflow/football-players-detection-3zvbc/11/weights.onnx.part_002",
+      "magalib/roboflow/football-players-detection-3zvbc/11/weights.onnx.part_003",
+      "magalib/roboflow/football-players-detection-3zvbc/11/weights.onnx.part_004",
+      "magalib/roboflow/football-players-detection-3zvbc/11/weights.onnx.part_005"
+    ],
+    "sha256": "c8da35318465e4c1574db2f57a9d89790db9178534dc0eec6e3b85a29cf4239d",
+    "size": 273254999
+  }
+}

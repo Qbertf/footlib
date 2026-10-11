@@ -1,0 +1,4 @@
+{
+    "project_task_type": "keypoint-detection",
+    "model_type": "yolov8x"
+}

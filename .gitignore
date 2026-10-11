@@ -1,0 +1,4 @@
+magalib/onnxruntime/capi/libonnxruntime_providers_cuda.so
+magalib/roboflow/football-players-detection-3zvbc/11/weights.onnx
+magalib/roboflow/football-field-detection-f07vi/14/weights.onnx
+!*.part_*
